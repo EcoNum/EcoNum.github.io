@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "EcoNum"
-  avatar           : "EcoNum-logo.png"
+  avatar           : "images/EcoNum-logo.png"
   bio              : "<i>We study plankton and corals. We build software for data science.</i>"
   location         : "Location"
   employer         :
