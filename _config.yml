@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark"  #"default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Numerical Ecology of Aquatic Systems (EcoNum)"
+title                    : "Numerical Ecology of Aquatic Systems"
 title_separator          : "-"
 name                     : &name "EcoNum"
 description              : &description "We study plankton and corals. We build software for data science."
@@ -24,7 +24,7 @@ url                      : https://econum.github.io # the base hostname & protoc
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "econum/econum.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -65,8 +65,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -110,13 +110,13 @@ analytics:
 # Site Author
 author:
   name             : "EcoNum"
-  avatar           : "profile.png"
-  bio              : "We study plankton and corals. We build software for data science."
+  avatar           : "EcoNum-logo.png"
+  bio              : "<i>We study plankton and corals. We build software for data science.</i>"
   location         : "Location"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "philippe.grosjean@umons.ac.be"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
