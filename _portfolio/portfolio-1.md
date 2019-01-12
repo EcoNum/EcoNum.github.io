@@ -1,6 +1,6 @@
 ---
 title: "Ecophysiology of hermatypic corals"
-excerpt: "We study hermatipyc corals in artificial mesocosms.<br/><img src='/../images/Mesocosme.jpg'>"
+excerpt: "We study hermatypic corals in artificial mesocosms.<br/><img src='https://econum.github.io/images/Mesocosme.jpg'>"
 collection: portfolio
 ---
 
