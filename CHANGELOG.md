@@ -950,7 +950,7 @@
 
 ### Bug Fixes
 
-- Fix `Liquid Exception: undefined method 'gsub' for nil:NilClass in _layouts/single.html` error when `page.title` is null. `<h1>` element is now conditional if `title:` is not set for a `page` or collection item. [#312](https://github.com/mmistakes/minimal-mistakes/issues/312)
+- Fix `Liquid Exception: undefined method 'gsub' for nil:NilClass in _layouts/single.html` error when `page.title` is null. `<h1>` element is now conditional if `title: ` is not set for a `page` or collection item. [#312](https://github.com/mmistakes/minimal-mistakes/issues/312)
 
 ### Maintenance
 
@@ -1200,3 +1200,6 @@
 - Google Analytics, Google Authorship, webmaster verifies, and Twitter card meta are now optional.
 
 ## [1.0.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/v1.0.1)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNzI1MzE3MzJdfQ==
+-->
