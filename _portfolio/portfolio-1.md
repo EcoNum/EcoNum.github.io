@@ -1,10 +1,12 @@
 ---
 title: "Ecophysiology of hermatypic corals"
-excerpt: "Short description of portfolio item number 1<br/><img src='../images/Mesocosme.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Mesocosme.jpg'>"
 collection: portfolio
 ---
 
 > We study various species of hermatypic scleractinians, more precisely, Pocilloporidae (*Stylophora pistillata*, *Pocillopora damicornis* and *Seriatopora hystrix*) and Acroporidae (*Acropora muricata*, *A. digitifera*, *A. tumida*, *A. millepora*, ...) in artificial mesocosms.
+
+<img src='/images/Mesocosme.jpg'>
 
 We are particularly interested by the growth of coral colonies and their skelettogenesis according to the fluctuation of environmental parameters. We study, of course, this growth in relationship with global climatic changes (temperature increase, ocean acidification) and eutrophication. But we also study this growth in a broader framework aiming to understand the major ecological properties of a coral holobiont.
 
